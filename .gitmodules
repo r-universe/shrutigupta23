@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rkafka"]
-	path = rkafka
-	url = https://github.com/cran/rkafka
 [submodule "rkafkajars"]
 	path = rkafkajars
 	url = https://github.com/cran/rkafkajars
